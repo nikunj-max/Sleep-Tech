@@ -1,10 +1,5 @@
 # 🛌 OFF/BEAT — Sleep-Tech White Space: Empirical Validation
 
-> **Context:** Round 2 take-home assignment for the OFF/BEAT Business Intern role.
-> This repository provides a fully data-driven proof of the market assumptions
-> underlying the proposed sleep-tech white space — *autonomous thermal regulation
-> for Indian IT / high-cognitive-load professionals*.
-
 ---
 
 ## 📌 Table of Contents
@@ -253,5 +248,3 @@ when running on Kaggle.
 | `scikit-learn` | 1.5.0 | ML models, cross-validation, metrics |
 
 ---
-
-*Built for OFF/BEAT Business Intern Application · Round 2*
