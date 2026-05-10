@@ -20,10 +20,6 @@
 
 The white space identified for OFF/BEAT's potential new brand is:
 
-> **"Autonomous, closed-loop thermal regulation sleep systems engineered specifically
-> for Indian IT and high-cognitive-load tech professionals suffering from burnout
-> and sleep-onset insomnia."**
-
 Rather than relying on anecdote or third-party market reports alone, this notebook
 uses real sleep-health data to **statistically validate every assumption** behind
 that market thesis — from disorder prevalence in tech workers to the cardiovascular
