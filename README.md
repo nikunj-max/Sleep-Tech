@@ -227,6 +227,16 @@ offbeat-sleep-analysis/
 ```
 
 ---
+### Output Images
+
+ ![Image Alt](https://github.com/nikunj-max/Sleep-Tech/blob/main/Image_01.png)
+ ![Image Alt](https://github.com/nikunj-max/Sleep-Tech/blob/main/Image_02.png)
+ ![Image Alt](https://github.com/nikunj-max/Sleep-Tech/blob/main/Image_03.png)
+ ![Image Alt](https://github.com/nikunj-max/Sleep-Tech/blob/main/Image_04.png)
+ ![Image Alt](https://github.com/nikunj-max/Sleep-Tech/blob/main/Image_05.png)
+ ![Image Alt](https://github.com/nikunj-max/Sleep-Tech/blob/main/Image_06.png)
+ ![Image Alt](https://github.com/nikunj-max/Sleep-Tech/blob/main/Image_07.png)
+ ![Image Alt](https://github.com/nikunj-max/Sleep-Tech/blob/main/Image_08.png)
 
 ## Dependencies
 
