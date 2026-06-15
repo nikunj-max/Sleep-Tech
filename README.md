@@ -1,4 +1,4 @@
-# 🛌 OFF/BEAT — Sleep-Tech White Space: Empirical Validation
+# 🛌 Sleep-Tech White Space: Empirical Validation
 
 ---
 
